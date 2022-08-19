@@ -1,7 +1,9 @@
 ## Hi there, my name is Bruno Duarte 👋
 
 About me
-> I am a Front End Developer, UX/UI Design novice, computer network technician and lover and enthusiast of new technologies.
+
+>I'm a Front End developer, beginner in UX/UI Design, technician in computer networks and lover and enthusiast of new technologies.
+>Here will be available some UX/UI Design and programming projects, which can be seen in my repositories.
 
 ##
 
