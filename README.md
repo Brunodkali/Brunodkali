@@ -2,7 +2,7 @@
 
 About me
 
->I'm a Front End developer, UX/UI Design, technician in computer networks and lover and enthusiast of new technologies.
+>I'm a Junior Programmer Analyst, UX/UI Design, technician in computer networks and lover and enthusiast of new technologies.
 >Here will be available some UX/UI Design and programming projects, which can be seen in my repositories.
 
 ##
