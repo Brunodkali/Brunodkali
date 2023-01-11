@@ -54,6 +54,7 @@ DevOps and Design
 
 <div>
   <a href="https://github.com/Brunodkali">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Brunodkali&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunodkali&layout=compact&langs_count=6&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Brunodkali&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <img height="135em" src="https://streak-stats.demolab.com/?user=Brunodkali&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunodkali&layout=compact&langs_count=6&theme=dracula"/>
 </div>
