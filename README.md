@@ -2,8 +2,7 @@
 
 About me
 
->I'm a Junior Programmer Analyst, UX/UI Design, technician in computer networks and lover and enthusiast of new technologies.
->Here will be available some UX/UI Design and programming projects, which can be seen in my repositories.
+>I'm a Junior Programmer Analyst, technician in computer networks and lover and enthusiast of new technologies. Here will be available some  programming projects, which can be seen in my repositories.
 
 ##
 
@@ -48,6 +47,14 @@ DevOps and Design
   <img align="center" alt="Bruno-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Bruno-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
   <img align="center" alt="Bruno-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+</div>
+
+##
+
+Badges
+<div style="display: inline_block"><br>
+  <img align="center" alt="Bruno-Ubuntu" height="150" width="150" src="https://user-images.githubusercontent.com/99764860/213535900-1398a909-18c6-41ce-8000-a1d3b3125933.png">
+  <img align="center" alt="Bruno-Ubuntu" height="150" width="150" src="https://user-images.githubusercontent.com/99764860/213535305-8b6246e1-8ea5-4362-95af-f317a084a9c3.png">
 </div>
 
 ##
