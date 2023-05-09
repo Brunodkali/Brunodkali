@@ -2,7 +2,7 @@
 
 About me
 
->I'm a Junior Programmer Analyst, technician in computer networks and lover and enthusiast of new technologies. Here will be available some  programming projects, which can be seen in my repositories.
+>I'm a Programmer Analyst, technician in computer networks and lover and enthusiast of new technologies. Here will be available some  programming projects, which can be seen in my repositories.
 
 ##
 
