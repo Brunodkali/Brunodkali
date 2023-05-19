@@ -65,10 +65,10 @@ DevOps
 Badges
 <div>
   <img align="center" alt="Bruno-badge" height="140" width="140" src="https://user-images.githubusercontent.com/99764860/217390876-988ecd48-dd4c-4e2d-af32-b770379a3c4d.png">
+  <img align="center" alt="Bruno-badge" height="120" width="120" src="https://github.com/Brunodkali/Brunodkali/assets/99764860/5cfcef16-663d-4517-91c6-007f618f833a">
   <img align="center" alt="Bruno-badge" height="120" width="120" src="https://user-images.githubusercontent.com/99764860/213535900-1398a909-18c6-41ce-8000-a1d3b3125933.png">
   <img align="center" alt="Bruno-badge" height="120" width="120" src="https://user-images.githubusercontent.com/99764860/213535305-8b6246e1-8ea5-4362-95af-f317a084a9c3.png">
-</div>
-<img align="center" alt="Bruno-badge" height="120" width="120" src="https://user-images.githubusercontent.com/99764860/222443869-1d39df67-6e6a-4d8b-83ea-e24b0b343ae6.png">
+  <img align="center" alt="Bruno-badge" height="120" width="120" src="https://user-images.githubusercontent.com/99764860/222443869-1d39df67-6e6a-4d8b-83ea-e24b0b343ae6.png">
 </div>
 
 ##
